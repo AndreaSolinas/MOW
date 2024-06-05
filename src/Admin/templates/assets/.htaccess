@@ -1,0 +1,4 @@
+<IfModule mod_rewrite.c>
+    Options +FollowSymLinks
+    Require all granted
+</IfModule>
