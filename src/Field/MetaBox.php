@@ -1,6 +1,6 @@
 <?php
 
-namespace Plugin\Field;
+namespace Mow\Field;
 
 use WP_Screen;
 

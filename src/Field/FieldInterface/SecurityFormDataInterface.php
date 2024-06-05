@@ -1,6 +1,6 @@
 <?php
 
-namespace Plugin\Field\FieldInterface;
+namespace Mow\Field\FieldInterface;
 
 interface SecurityFormDataInterface
 {

@@ -3,10 +3,10 @@ declare(strict_types=1);
 
 require_once realpath(__DIR__) . '/vendor/autoload.php';
 
-use Plugin\Admin\AdminPanel;
-use Plugin\Field\GenericField as Field;
-use Plugin\Field\MetaBox;
-use Plugin\Field\Type\Primitive\UrlField;
+use Mow\Admin\AdminPanel;
+use Mow\Field\GenericField as Field;
+use Mow\Field\MetaBox;
+use Mow\Field\Type\Primitive\UrlField;
 
 new class(){
     public function __construct()

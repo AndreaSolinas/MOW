@@ -1,4 +1,9 @@
+![Version](https://img.shields.io/badge/version-0.0.1-blue)
+![License](https://img.shields.io/badge/license-Proprietary-orange)
+
 # Must-use Optimize Wordperss
+
+> 🐄🐄 MOOOOWWW GOD DAMN MOOOOOOOOWWWWWW 🐄🐄
 
 "MOW" is an essential Must-Use Plugin for WordPress, providing custom fields, custom post types, and admin pages for enhanced content management. Always active, it offers developers seamless integration and greater control over their WordPress sites.
 

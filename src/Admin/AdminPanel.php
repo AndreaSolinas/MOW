@@ -1,6 +1,6 @@
 <?php
 
-namespace Plugin\Admin;
+namespace Mow\Admin;
 
 class AdminPanel {
     public function __construct(String $title, String $roleCapability, String $slug, String $icon_url = 'dashicons-admin-generic', int $position = null ) {

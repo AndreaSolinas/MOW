@@ -1,9 +1,9 @@
 <?php
 
-namespace Plugin\Field\Type\Primitive;
+namespace Mow\Field\Type\Primitive;
 
-use Plugin\Field\FieldInterface\SecurityFormDataInterface;
-use Plugin\Field\GenericField;
+use Mow\Field\FieldInterface\SecurityFormDataInterface;
+use Mow\Field\GenericField;
 
 final class UrlField Extends GenericField implements SecurityFormDataInterface
 {
